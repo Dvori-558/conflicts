@@ -1,5 +1,5 @@
 const A = ()=>{
-    return "aaaa";
+    return 3;
 }
 const B = ()=>{
     return "function bbbb";
